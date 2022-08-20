@@ -292,9 +292,6 @@
   margin-bottom: 20px;
 }
 
-.table__cell_theme_dark {
-  /*border: 1px solid red;*/
-}
 
 .kaufman__section-subtitle_them_dark {
   color: #f2f2f2;
@@ -342,7 +339,6 @@
   background-color: #000000;
   color: #f2f2f2;
   min-height: 350px;
-  position: relative;
   /*border: 1px solid red;*/
   flex-basis: 711px;
 }
@@ -392,12 +388,10 @@
 
 }
 
+
 .footer__column-heading {
   margin-bottom: 20px;
   margin-top: 0;
-}
-
-.footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
