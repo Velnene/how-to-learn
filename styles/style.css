@@ -68,13 +68,12 @@
 }
 
 .header__main-illustration {
-  z-index: 0;
+  z-index: 1;
   position: absolute;
   right: 0;
   bottom: 0;
   width: 765px;
   height: 608px;
-  z-index: 1;
 }
 
 
