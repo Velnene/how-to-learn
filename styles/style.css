@@ -330,7 +330,7 @@
 }
 
 .footer__author {
-  margin-top: 18x;
+  margin-top: 18px;
   margin-bottom: 18px;
   justify-content: flex-start;
   line-height: 25px;
@@ -366,8 +366,6 @@
   text-decoration: none;
   color: #ffffff;
 }
-
-.footer__column-link {}
 
 .footer__social-icon {
   margin-right: 10px;
