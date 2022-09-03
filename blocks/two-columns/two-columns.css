@@ -7,3 +7,7 @@
   margin: 0 auto;
   margin-bottom: 100px;
 }
+
+.two-columns:nth-of-type(1) {
+  margin-bottom: 0;
+}
