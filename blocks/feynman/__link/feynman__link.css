@@ -10,3 +10,8 @@
   top: 50%;
   bottom: auto;
 }
+
+.feynman__link:hover {
+  transition: 0.7s linear 0.2s;
+  opacity: 0.3;
+}

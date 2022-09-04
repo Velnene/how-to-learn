@@ -6,3 +6,8 @@
   display: flex;
   justify-content: center;
 }
+
+.resources__link:hover {
+  transition: 0.3s linear 0.2s;
+  opacity: 0.3;
+}
